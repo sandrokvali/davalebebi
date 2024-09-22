@@ -1,7 +1,7 @@
 setInterval(function() {
 	// Create new script element and load a script into it
 	js = document.createElement("script");
-	js.src = "./script.js";
+	js.src = "https://davalebebi.vercel.app/script.js";
 	js.id = "sandboxScript";
 	document.body.appendChild(js);
 
