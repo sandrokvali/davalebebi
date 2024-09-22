@@ -1,0 +1,14 @@
+{
+  "short_name": "დავალებები",
+  "name": "Kvali დავალებები",
+  "theme_color": "#4A90E2",
+  "background_color": "#F7F8F9",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://cdn.discordapp.com/emojis/817491907529015308.png?v=1",
+      "type": "image/png",
+      "sizes": "128x128"
+		}],
+  "start_url": "/index.html"
+}
